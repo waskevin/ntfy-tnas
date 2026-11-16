@@ -1,0 +1,97 @@
+[en-us]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "ntfy"
+auth = "waskevin"
+descript = "A self-hosted notification service with a web interface and publish-subscribe API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
